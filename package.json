@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyrishabh13/nodejs-express-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyrishabh13/nodejs-express-tutorial/issues"
+  },
+  "homepage": "https://github.com/heyrishabh13/nodejs-express-tutorial#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
