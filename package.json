@@ -18,7 +18,7 @@
     "url": "https://github.com/heyrishabh13/nodejs-express-tutorial/issues"
   },
   "homepage": "https://github.com/heyrishabh13/nodejs-express-tutorial#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^2.0.21"
   }
 }
